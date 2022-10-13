@@ -7,7 +7,7 @@
  *
  * Return: Always 0
  *
- * Author: Akojede Peter and Makinde Samuel
+ * Author: Opeoluwa Adeyeri % Selamawit Kassaye Asfaw
  */
 int main(void)
 {
