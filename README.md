@@ -1,1 +1,1 @@
-This is a printf task for holberton school written by Makinde Samuel
+# This is a an implementation of printf by Opeoluwa Adeyeri and Selamawit Kassaye Asfaw
