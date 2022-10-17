@@ -121,7 +121,7 @@ int main(void)
 	return (0);
 
 }
-.SH SEE ALSO
+.SH See Also
 .R printf(3)
 .SH AUTHORS
 Written by \fBOpeoluwa Adeyeri\fR and \fBSelamawit Kassaye Asfaw\fR.
