@@ -1,5 +1,5 @@
 .\" Manpage for _printf.
-.TH _printf 3 "15 April 2022" "1.0" "Program Manual for _printf"
+.TH _printf 3 "17 October 2022" "1.0" "Program Manual for _printf"
 .SH NAME
  _printf - formatted output conversion and print data.
 .SH SYNOPSIS
